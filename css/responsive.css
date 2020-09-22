@@ -1,0 +1,874 @@
+/****************************************************
+        media css
+*****************************************************/
+@media (max-width: 1500px) {
+    /* blog single full width with image slider */
+    .blog-text { padding: 60px 60px 0 60px; }
+    
+    /*  demo  */
+}
+@media (max-width: 1450px) {
+    /*  blog home slider  */
+    
+    /*  onepage agency option 2  */
+}
+@media (max-width: 1383px) {
+    /*  navigation  */
+
+    /*  blog home slider  */
+    
+    /* agency */
+    
+    /* fashion */
+    
+    /* spa */
+    
+    /* onepage agency option 2 */
+    
+    /* client */
+    .client-text {padding: 0 15px;}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    /*  typography  */
+
+    /*  grid figcaption   */
+    
+    /* heading */
+    
+    /* travel agency */
+}
+@media (max-width: 1199px) {
+    /*  custom   */
+
+    /*  key person   */
+
+    /*  services   */
+
+    /*  blog home slider  */
+
+    /*  grid figcaption   */
+
+    /*  project img   */
+
+    /*  blog home grid  */
+    
+    /*  latest-blogs  */
+     .comment {margin-right: 8px !important;}
+
+    /*  blog home masonry  */
+
+    /*  ajax - onepage portfolio single #5  */
+
+    /*  countdown timer  */
+    
+    /*  text center  */
+    
+    /*  display  */
+    
+    /*  margin  */
+    
+    /*  padding  */
+    
+    /*  counter style 2  */
+    
+    /*  header right */
+
+    /* blog single full width with image slider */
+    .blog-text { padding: 50px 30px 0; }
+    .blog-text p { width: 100%; }
+
+    /* footer */
+
+    /*  portfolio short description  */
+    
+    /*  careers page  */
+
+    /*  shop  */
+
+    /****************************************************
+        home page
+    ****************************************************/
+    /*======*  restaurant  *======*/
+    
+    /*======*  corporate  *======*/
+
+    /****************************************************
+       one page
+    ****************************************************/
+    /*======*  architecture  *======*/
+    /*  services box  */
+
+    /*  case study slider  */
+
+    /*======*  spa  *======*/
+
+    /*======*  agency  *======*/
+    .reasons { padding: 8.6% 5.6% 25.6%; }
+
+    /*  case study slider  */
+    
+    /*  careers  */
+    .career-form { padding: 3%; }
+    
+    /* photography */
+    
+    /* photography */
+    
+    /* menu */
+    .nav > li { margin-right: 17px; margin-left: 17px}
+    
+    /* icon tab */
+    
+    /* onepage agency option 2 */
+    
+    /* about us option 2 */
+    
+    /*  demo  */
+    
+}
+@media (max-width: 1064px) {
+    /*  parallax  */
+    .parallax-fix{ background-attachment: scroll !important; }
+
+    /*  carousel slide  */
+
+    /*  case study slider  */
+
+    /*  blog home slider  */
+
+    /****************************************************
+       features
+    ****************************************************/
+    
+    /* fashion */
+}
+/******* Only for iPad Css *******/
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    /* for general iPad layouts */
+    .navbar-nav > li > a { border-color: transparent !important; }
+}
+@media (max-width: 1024px) {
+    /*  navigation position  */
+    .navbar-right .dropdown-menu { right: -147px; }
+
+    /*  text rotator  */
+    .fix-background { background-attachment:inherit !important}
+    
+    /* agency */
+}
+@media (max-width: 991px) {
+    /*  navigation panel  */
+    nav .accordion-menu * { transition-duration: 0s; -moz-transition-duration: 0s; -webkit-transition-duration: 0s; -o-transition-duration: 0s; }
+    .panel { position: relative; }
+    .panel-title > a.collapsed:after { content: '+'; position: absolute; right: 24px; }
+    .panel-title > a:after { content: '-'; position: absolute; right: 24px; }
+    .collapse.in { width: 100%; clear: both;}
+
+    /*  navigation  */
+    nav.navbar .container { position: relative; }
+    .navbar .accordion-menu { background-color: rgba(27, 22, 28, 0.95); clear: both; min-height: 0 !important; position: absolute; top: 76px; width: 100%; padding: 0; }
+
+    /*  sticky navigation */
+    .sticky-nav .nav > li { float: left; width: 100% !important; margin: 0 !important; border-top: 1px solid rgba(255, 255, 255, 0.06) !important; }
+    .sticky-nav .nav > li:last-child { border-bottom: 1px solid rgba(255, 255, 255, 0.06); }
+    .sticky-nav ul li a:hover { color: #fff !important; background-color: rgba(0, 0, 0, 0.3); }
+    .sticky-nav ul li a:hover i { color: #fff; border-color: #e6af2a; }
+    .sticky-nav .navbar-nav > li > a { font-weight: 700; }
+    .sticky-nav .navbar-nav > li > a i { display: inline-block; float: right; margin: 9px 10px 0 0; font-size: 14px; color: #fff; width: 20px; height: 20px; vertical-align: middle; padding: 0 0 0 4.2px; line-height: 20px; } 
+    .sticky-nav .navbar-nav > li > .dropdown-menu { border-top: 1px solid rgba(255, 255, 255, 0.06); left: 0; top: inherit !important; width: 100% !important; transform: translateX(0); -webkit-transform: translateX(0); -moz-transform: translateX(0); -o-transform: translateX(0); }
+
+    .navbar .text-right { background-color: rgba(27, 22, 28, 0.95); clear: both; min-height: 0; padding: 0;  position: absolute; top: 80px; width: 100%; }
+
+    .dropdown-menu:last-child ul li:last-child { border-bottom: 0; }
+    .dropdown-menu li a { color: inherit; height: 34px !important; line-height: 34px !important; padding: 0 !important; text-align: left; }
+     
+    .navbar-nav > li > a { border-bottom: 0 !important;}
+    .navbar-default .navbar-nav > li > a { color: #fff; display: block; height: 38px; line-height: 38px; padding: 0 0 0 15px; text-align: left; }
+    .megamenu-right-icon { display: block !important; float: right; position: absolute !important; right: 0; top: 0; }
+    .megamenu-right-icon:hover { background-color: transparent !important; }
+    
+    .dropdown-header { margin: 0;}
+    .navbar-collapse.in { overflow-x: hidden; }
+    .navbar-default .col-sm-3 { float: left; }
+
+    .mega-menu-column:first-child { padding-left: 0; }
+    .mega-menu-column:last-child { padding-left: 0; }
+
+    .navbar-toggle {border-radius: 0px;}
+    .navbar-default .navbar-toggle .icon-bar { background-color: #fff; }
+    .navbar-default .navbar-toggle { background-color: #000;}
+
+    .dropdown-toggle.collapsed .fa-angle-down::before { content:"\f107"; }
+    .dropdown-toggle .fa-angle-down::before { content:"\f106"; }
+    .megamenu-right-icon.collapsed .fa-angle-down::before { content:"\f107"; }
+    .megamenu-right-icon .fa-angle-down::before { content:"\f106"; }
+
+    /*  navigation, mega menu  */
+    .dropdown-menu { margin: 0 !important; padding: 0 15px !important; position: inherit; width: 100%; background-color: transparent; background-clip: inherit; }
+    .mega-menu-column { margin: 0 !important; display: block; background-color: transparent; background-clip: inherit; }
+    .mega-menu-column li { border-top: 1px solid rgba(255, 255, 255, 0.06); }
+    .dropdown-menu li { padding: 0; width: 100%; }
+    .dropdown-header { border-bottom: 0; border-top: 0 none !important; color: #fff; font-size: 11px; font-weight: 600; height: 38px; letter-spacing: 3px; line-height: 38px; }
+    .dropdown-menu li a i { top: 10px; }
+
+    /*  navigation > mega menu > dropdown li ul  */
+    .dropdown-menu li ul { display: block; position: inherit; border: 0; padding: 0; margin: 0; }
+
+    /*  sub menu  */
+
+    /*  header right */
+
+    /*  custom  */
+    .breadcrumb { text-align: left; margin-top: 2%; }
+    section { padding: 90px 0; }
+    .section-title { padding-bottom: 90px; }
+    .sm-no-margin { margin: 0 auto !important; }
+    .sm-no-margin-top { margin-top: 0 !important; }
+    .sm-margin-bottom-four { margin-bottom: 4% !important }
+    .sm-margin-bottom-ten { margin-bottom: 10% !important }
+    .sm-no-padding { padding: 0 !important; }
+    .sm-display-none { display:none !important}
+    .sm-text-center { text-align: center !important;}
+
+    /*  features    */
+    .features-section.col-md-12.col-sm-6 { padding: 0 2% !important; }
+    .features-section h5 { line-height: 18px; }
+    .col-sm-12:last-child .features-section:first-child { margin-bottom: 0; }
+
+    /*  services   */
+    #services { background-color: rgba(224, 224, 224, 1) !important; background-image: none !important; }
+
+    /*  counter   */
+
+    /*  key person   */
+    
+    /*  slider-title  */
+
+    /*  case study slider  */
+
+    /*  blog  */
+    #blog .section-title { padding-bottom: 50px; }
+    .blog-post p { line-height: 23px; }
+
+    /*  approach  */
+
+    /*  new project  */
+
+    /* owl carousel */
+
+    /*  blog home slider  */
+
+    /*  grid   */
+
+    /*  grid figcaption   */
+
+    /*  project img    */
+
+    /*  onepage portfolio single #2    */
+
+    /*  animated    */
+
+    /*  blog home grid    */
+
+    /* portfolio grid - 4 column  */
+
+    /* portfolio grid - 5 column  */
+
+    /* portfolio short description */
+
+    /*  ajax - onepage portfolio single #2    */
+    .features-section .col-xs-9 { width: 70%;}
+
+    /*  ajax - onepage portfolio single #5  */
+
+    /*  slider typography    */
+
+    /*  *onepage fashion* parallax section    */
+
+    /* blog single full width with image slider */
+    .blog-text { padding: 60px 25px; }
+    .blog-text p { width: 100%; }
+    .text-uppercase { word-wrap: break-word; }
+
+    /* blog listing classic */
+
+    /* blog listing full */
+
+    /* parallax */
+    .parallax-fix { background-attachment: inherit !important}
+    .fix-background { background-attachment: inherit !important; }
+
+    /*  footer  */
+    footer h6 { line-height: 16px; }
+
+    /****************************************************
+       home page
+   ****************************************************/
+    /*======*  restaurant  *======*/
+    
+    /*======*  travel  *======*/
+    
+    /*======*  corporate  *======*/
+
+    /****************************************************
+        careers page
+    ****************************************************/
+
+    /****************************************************
+        one page
+    ****************************************************/
+    /*======*  fashion  *======*/
+
+    /*======*  spa  *======*/
+
+    /*======*  restaurant  *======*/
+
+    /****************************************************
+        shop
+    ****************************************************/
+    /*  button    */
+
+    /*  exclusive style     */
+
+    /*  home product     */
+    .new { bottom: 22%;}
+    
+    /*  home photography  */
+    
+    /*  menu  */
+  
+    /*  case study  */
+        
+    /* tabs */
+    
+    /*  top search  */
+    .page-title-small .breadcrumb { margin-top:2%}
+    
+    /*  bottom arrow pagination  */ 
+    
+    /*  onepage agency option 2  */
+    .map-contact { min-height: 440px; padding: 12% 9% 0;}
+    .contact-map { min-height: 440px; padding: 60px 40px 0;}
+    
+     /*  onepage hamburger  */
+    
+    
+}
+@media (max-width: 920px) {
+    /*  blog home slider  */
+}
+@media (max-width: 768px) {
+    /*  custom  */
+    .separator-line { margin: 20px auto 15px; }
+
+    /*  key person   */
+
+    /*  slider text   */
+    .nav > li {width: auto;}
+
+    /*  single - onepage portfolio single #2  */
+
+    /****************************************************
+        careers page
+    ****************************************************/
+    .sm-bg-yellow { background: none repeat scroll 0 0 #e6af2a !important; }
+
+    /****************************************************
+        one page
+    ****************************************************/
+    /*======*  architecture  *======*/
+
+    /*======*  spa  *======*/
+    
+     /*  careers  */
+    .career-form { padding: 5%; }
+    
+    /*  text rotator  */
+}
+@media (max-width: 767px) {
+    /*  custom  */
+    section { padding: 50px 0; }
+    .xs-onepage-section { padding: 100px 0 !important; }
+    .xs-margin-bottom-one { margin-bottom: 1% !important }
+    .xs-margin-bottom-five { margin-bottom: 5% !important }
+    .xs-margin-bottom-seven { margin-bottom: 7% !important }
+    .xs-margin-bottom-ten { margin-bottom: 10% !important }
+    .xs-margin-top-five { margin-top: 5% !important }
+    .xs-margin-top-ten { margin-top: 10% !important }
+    .xs-display-none { display: none !important}
+    .xs-no-padding-bottom { padding-bottom: 0 !important; }
+    .xs-no-padding-left-right { padding-left: 0 !important; padding-right: 0 !important}
+    .xs-text-center { text-align: center !important;}
+    
+    /*  background color  */
+
+    /*  features    */
+    .features-section { margin-bottom: 6% !important; }
+    .features-section.col-md-12.col-sm-6 { padding: 0 !important; }
+    .col-sm-12:last-child .features-section:last-child { margin-bottom: 0 !important; }
+    .features-section .separator-line { margin: 15px 0 11px; }
+
+    /*  portfolio nav    */
+
+    /*  work process    */
+
+    /*  services   */
+
+    /*  counter   */
+    
+    /*  case study  */
+    
+    /*  slider-title  */
+
+    /*  testimonial   */
+    .testimonial p { margin: 40px 0; }
+
+    /*  key person   */
+
+    /*  blog  */
+    #blog .col-sm-4 { margin-bottom: 15px; }
+    .blog-post p { padding: 0 0 20px; }
+
+    /*  approach  */
+
+    /*  footer  */
+    footer .col-sm-4 { margin-bottom: 30px; }
+    footer .col-sm-4:last-child { margin-bottom: 0; }
+
+    /* owl carousel */
+
+    /* buttons */ 
+    .highlight-button-black-border { font-size: 16px; padding: 10px 20px; }
+
+    /*  blog home slider  */
+
+    /*  project img    */
+    .col-sm-6:nth-child(2).text-med { margin-top: 5%; }
+    .text-large { margin-right: 0; }
+
+    /*  related projects    */
+
+    /*  masonry gallery   */
+
+    /* portfolio grid - with title */
+
+    /*  animated tab    */
+
+    /*  one page    */
+
+    /*  owl carousel    */
+
+    /* page titles */
+    h1.title {font-size: 37px !important; line-height: 45px !important;}
+
+    /*  page title large    */
+
+    /* portfolio grid - wide with title */
+
+    /* portfolio parallax */
+
+    /* portfolio short description */
+
+    /****** blog home pagination ******/
+
+    /* style #2 */
+
+    /*  portfolio single #4 */
+
+    /*  ajax - onepage portfolio single #5  */
+
+    /*  slider typography    */
+    .slider-subtitle2 { font-size: 45px; line-height: 50px; }
+
+    /****************************************************
+        buttons
+    ****************************************************/
+
+    /****************************************************
+        features box
+    ****************************************************/
+
+    /*  header right */
+
+    /*  ET-line icons */
+
+    /* portfolio onepage single project page2    */
+    .features-section .col-xs-9 { width: 80%;}
+
+    /* blog single full width with image slider */
+    .blog-text { padding: 30px 15px; }
+    .blog-details-text p { margin-bottom: 15px; }
+
+    /* blog single full width */
+
+    /*  side bar */
+
+    /* blog listing classic */
+
+    /* blog details */
+
+    /* blog listing full */
+    
+    /* blog home masonry */
+
+    /* page titels */
+    .page-title { padding: 40px 0}
+    .page-title h1 { letter-spacing: 2px; line-height: 26px; margin-bottom: 0px; }
+
+    /* footer */
+    footer .footer-middle { padding-top: 50px; padding-bottom: 25px;}
+    footer h6 { font-size: 11px; }
+
+    /****************************************************
+        shop
+    ****************************************************/
+    /*  home product     */
+    .new { bottom: 12%;}
+
+    /*  shorting     */
+
+    /****************************************************
+        home page
+    ****************************************************/
+    /*======*  fashion  *======*/
+    
+    /*======*  travel  *======*/
+    
+    /*======*  corporate  *======*/
+
+    /****************************************************
+        one page
+    ****************************************************/
+    /*======*  fashion  *======*/
+    /*  slider typography     */
+
+    /*======*  spa  *======*/
+
+    /*======*  agency  *======*/
+
+    /*======*  travel agency  *======*/
+
+    /*======*  wedding  *======*/
+    
+    /*  grid  */
+    
+    /*  typography  */
+    .text-large { font-size: 14px !important; }
+    h1, .h1 { font-size: 30px; line-height: 42px;}
+    .title-extra-large { font-size: 26px !important; line-height: 33px !important; }
+    
+    /*  restaurant  */
+    
+    /*  home photography  */
+    
+    /* tabs */
+    
+    /* product details */  
+    
+    /* spa */
+    
+    /* photography */
+    
+    /*  slider typography    */
+    
+    /* form */
+    
+    /* alert */
+    
+    /* typography */
+    
+    /* product details */
+    
+    /* wedding */
+    
+    /*  static sticky  */
+    
+    /*  coming soon  */
+    
+    /*  counter style 2  */
+    
+    /*  bottom arrow pagination  */
+    
+    /*  onepage hamburger  */
+    
+    /*  onepage agency option 2  */
+    .map-contact { min-height:0; padding: 10% 10%;}
+    .map-contact ul li:last-child {margin-bottom: 0;}
+    .contact-map { min-height:0; padding: 20px 20px; margin-bottom: 30px;}
+    
+    /*  about us option 2  */
+   
+    /*  demo  */
+    
+}
+@media (max-width: 700px) {
+    /*  countdown timer  */
+    /****************************************************
+       shop
+   ****************************************************/
+}
+@media(max-width: 692px){
+    .client-main-front h1{
+        font-size: 12px;
+
+    }
+}
+@media (max-width: 640px) {
+    /*  custom  */
+    .section-title {padding: 0 0 50px 0;}
+
+    /*  features    */
+
+    /*  services   */
+
+    /*  counter   */
+
+    /*  testimonial   */
+    .testimonial p { margin: 11px 0 39px; }
+
+    /*  key person   */
+
+    /*  case study slider  */
+
+    /*  blog  */
+    #blog .section-title { padding-bottom: 50px; }
+
+    /*  approach  */
+
+    /*  slider text   */
+
+    /*  project img    */
+
+    /*  onepage portfolio single #2    */
+
+    /*      grid figcaption    
+        .grid figcaption { bottom: 43%; }*/
+}
+@media (max-width: 589px) {
+    /*  countdown timer  */
+    
+     /*  restaurant  */
+    
+    /* typography */
+}
+@media (max-width: 580px) {
+    /*  key person   */
+
+    /*  footer  */
+
+    /*  ET-line icons */
+}
+@media (max-width: 480px) {
+    h3{
+        font-size: 17px !important;    
+    }
+    /*  navigation  */
+    .navbar-fixed-top .navbar-collapse { max-height: 394px; }
+
+    /*  custom  */
+    .section-title { font-size: 16px !important; word-break: break-all;   }
+    .scrollToTop { display: none !important; }
+
+    /*  carousel slide  */
+
+    /*  features    */
+    .features-section .col-xs-9 { width: 74%; }
+
+    /*  work process    */
+
+    /*  services   */
+
+    /*  key person   */
+
+    /*  case study slider  */
+
+    /*  approach  */
+
+    /*  new project  */
+
+    /*  footer  */
+
+    /*  text effect  */
+
+    /*  project img    */
+    .text-large { font-size: 13px; line-height: 22px;}
+    .text-med { font-size: 13px; line-height: 22px; }
+
+    /*  onepage portfolio single #2    */
+
+    /*  animated    */
+
+    /*  related projects   */
+
+    /*  owl carousel    */ 
+
+    /*  slider typography    */
+    .slider-subtitle2 { font-size: 40px; line-height: 50px; }
+    .slider-subtitle5 { font-size: 20px; margin-bottom: 15px;}
+
+    /*  parallax    */
+
+    /*  blog home grid    */
+
+    /*  scroll down    */
+
+    /****************************************************
+        accordions
+    ****************************************************/
+    .panel-title { font-size: 11px; padding: 7px 15px; }
+    .panel-body { padding: 5px 15px 20px; }
+
+    /****************************************************
+        progress bar
+    ****************************************************/
+
+    /****************************************************
+        buttons
+    ****************************************************/
+
+    /****************************************************
+        features box
+    ****************************************************/
+    .col-md-3.col-sm-3.col-xs-4.text-center { width: 100%; }
+
+    /****************************************************
+        Et-line icons
+    ****************************************************/
+
+    /****************************************************
+        typography
+    ****************************************************/
+
+    /****************************************************
+        popup with video
+    ****************************************************/
+
+    /*  ET-line icons */
+
+    /* blog single full width with image slider */
+
+    /****************************************************
+        contact us
+    ****************************************************/
+    .contact-map iframe { height: 300px; }
+
+    /*     footer  */
+     .footer-link4 { width: 100%; margin-bottom: 5%;}
+    footer h5 { margin-bottom: 10px;}
+    .footer-middle { text-align: center; }
+
+    /****************************************************
+        home page
+    ****************************************************/
+    /*======*  fashion  *======*/
+
+    /*======*  agency  *======*/
+
+    /*======*  restaurant  *======*/
+
+    /****************************************************
+        one page
+    ****************************************************/
+    /*======*  architecture  *======*/ 
+
+    /*======*  spa  *======*/
+
+    /*======*  agency  *======*/
+
+    /*======*  travel agency  *======*/
+
+    /*======*  corporate  *======*/
+
+    /*======*  landing  *======*/
+
+    /*======*  wedding  *======*/
+    
+    /*  home photography  */
+    
+    /*  slider typography    */
+}
+@media (max-width: 420px) {   
+    /*  typography    */
+}
+@media (max-width: 466px) {
+    /*  key person   */
+
+    /*  text effect  */
+
+    /*  elements features box */
+
+    /*     footer  */
+    footer ul li a { font-size: 10px;}
+    .copyright { font-size: 9px;}
+
+    /****************************************************
+        faq
+    ****************************************************/
+}
+@media (max-width: 366px) {
+    /*  buttons   */ 
+    .btn-small-white { margin-right: 7px;}
+
+    /*  owl carousel    */ 
+
+    /*  single - onepage portfolio single #2  */
+    
+    /*  half screen video  */
+}
+@media (max-width: 359px) {
+    /*  blog home slider  */
+
+    /*     footer  */
+    footer ul li a { font-size: 9px;}
+    .copyright { font-size: 8px;}
+    
+    /*  restaurant  */
+    
+    /* alert */
+    
+    /*  half screen video  */
+    
+    /*  primary style  */
+    
+
+}
+@media (max-width: 330px) {
+    /*  blog home slider  */
+     .comment { letter-spacing: 1px; margin-right: 18px;}
+}
+/*  only mobile devices landscape view  */
+@media screen and (max-width: 320px) , screen and (max-height: 480px) {
+    .navbar-fixed-top .navbar-collapse { max-height: 275px !important; }
+}
+@media (max-width: 320px) {
+    .highlight-button-black-border {font-size: 18px;padding: 10px 20px;}
+    h1 { font-size: 26px; line-height: 32px; }
+
+    /*  key person   */
+
+    /*  Animated tab    */
+
+    /*  project img    */
+
+    /*  onepage portfolio single #2    */
+
+    /****************************************************
+        shop
+    ****************************************************/
+    /*  home product     */
+    .new { bottom: 18%;}
+
+    /****************************************************
+        one page
+    ****************************************************/
+    /*======*  architecture  *======*/
+
+    /*======*  wedding  *======*/
+    
+    /* pull navigation */
+    /*  half screen video  */
+}
+@media (max-width: 991px){
+.shrink-nav .accordion-menu {
+    top: 56px;
+}}

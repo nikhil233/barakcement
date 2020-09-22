@@ -1,0 +1,67 @@
+.distortion
+{
+   position: relative;
+   margin: 0;
+   font-size: 4em;
+   font-weight: 900;
+   color: #fff;
+   z-index: 1;
+   overflow: hidden;
+
+}
+
+
+.ml15 {
+    font-weight: 800;
+    font-size: 3.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+  }
+  
+  .ml15 .word {
+    display: inline-block;
+    line-height: 1em;
+  }
+#bag{
+  scroll-behavior: smooth;
+}
+.bagp{
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 30px;
+  padding-top: 50px;
+  text-align: center;
+
+}
+@media(max-width: 1024px) and (min-width: 769px){
+  .bagp{
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 20px;
+  padding-top: 40px;
+
+}
+}
+.icon .fa{
+  color: black;
+  font-size: 20px;
+}
+@media (max-width: 984px){
+  #bag{
+    display: none;
+  }
+  .scrollmagic-pin-spacer{
+    display: none !important;
+  }
+ 
+}
+@media (max-width: 983px){
+  #bag1{
+    display: inline-block;
+  }
+}
+@media (min-width: 983px){
+  #bag1{
+    display: none;
+  }
+}
